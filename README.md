@@ -27,7 +27,7 @@
                     src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"
                     width="40" height="40" /> </a></div>
        
-    </div>
+    
     <div class="col">
         <p class="name">Programming Languages</p>
         <div><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
