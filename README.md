@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Semih</h1>
-<h3 align="center">I'a Software Developer. I study at Mersin University</h3>
+<h3 align="center">I'm Software Developer. I study at Mersin University</h3>
 <h4 align="center">I am open to innovations, fond of exploring, and eager to learn </h4>
 - 🌱 I’m currently learning **Full Stack 'Web Development'**
 
@@ -13,27 +13,9 @@
             alt="https://www.linkedin.com/in/semih-sa%c4%9flam-ab2a23218/" height="30" width="40" /></a>
 </p>
 
-
-<style>
-    .col {
-
-        margin-right: 15px;
-    }
-
-    .name {
-
-        font-size: 15px;
-        font-weight: bold;
-        color: #333;
-        background-color: #EEE2DE;
-        padding: 10px;
-        text-align: center;
-        border-radius: 8px;
-    }
-</style>
 <h3 align="left">Languages and Tools</h3>
 <div class="row" style="display: flex">
-    <div class="col">
+    <div>
         <p class="name">Database</p>
         <div><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -44,6 +26,16 @@
                 href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img
                     src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"
                     width="40" height="40" /> </a></div>
+<p class="name">programming</p>
+        <div><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                    alt="javascript" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cs/"
+                target="_blank" rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+                    alt="csharp" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/"
+                target="_blank" rel="noreferrer"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+                    alt="c" width="40" height="40" /> </a> </div>
     </div>
     <div class="col">
         <p class="name">Programming Languages</p>
