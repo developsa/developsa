@@ -13,24 +13,6 @@
             alt="https://www.linkedin.com/in/semih-sa%c4%9flam-ab2a23218/" height="30" width="40" /></a>
 </p>
 
-
-<style>
-    .col {
-
-        margin-right: 15px;
-    }
-
-    .name {
-
-        font-size: 15px;
-        font-weight: bold;
-        color: #333;
-        background-color: #EEE2DE;
-        padding: 10px;
-        text-align: center;
-        border-radius: 8px;
-    }
-</style>
 <h3 align="left">Languages and Tools</h3>
 <div class="row" style="display: flex">
     <div class="col">
