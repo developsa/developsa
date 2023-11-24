@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Semih</h1>
-<h3 align="center">I'M Software Developer. I study at Mersin University</h3>
+<h3 align="center">I'm Software Developer. I study at Mersin University</h3>
 <h4 align="center">I'm open to innovations, fond of exploring, and eager to learn </h4>
 - 🌱 I’m currently learning **Full Stack 'Web Development'**
 
