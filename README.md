@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Semih</h1>
-<h3 align="center">I'a Software Developer. I study at Mersin University</h3>
-<h4 align="center">I am open to innovations, fond of exploring, and eager to learn </h4>
+<h3 align="center">I'm Software Developer. I study at Mersin University</h3>
+<h4 align="center">I'm open to innovations, fond of exploring, and eager to learn </h4>
 - 🌱 I’m currently learning **Full Stack 'Web Development'**
 
 - 📫 How to reach me **saglamsemih50@gmail.com**
