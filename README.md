@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Semih</h1>
 <h3 align="center">I'a Software Developer. I study at Mersin University</h3>
+<h4 align="center">Yeniliklere açık, araştırmayı seven ve öğrenmeye istekli birisiyim </h4>
+- 🌱 I’m currently learning **Full Stack 'Web Development'**
 
-- 🌱 I’m currently learning **Full Stack 'Web Design'**
-
-- 📫 How to reach me **semih502010@hotmail.com**
+- 📫 How to reach me **saglamsemih50@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
