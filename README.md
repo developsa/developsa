@@ -51,6 +51,12 @@
                 alt="javascript" width="40" height="40" /></td>
         <td>JavaScript</td>
     </tr>
+     <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python" width="40" height="40" /></td>
+    <td>Python</td>
+</tr>
+
 
 </table>
 <h2>Frontend Development</h2>
