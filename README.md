@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Semih</h1>
-<h3 align="center">I'm Software Developer. I study at Mersin University</h3>
+<h3 align="center">I'm Software Developer. I graduated from Mersin University, Department of Computer Engineering</h3>
 <h4 align="center">I'm open to innovations, fond of exploring, and eager to learn </h4>
-- 🌱 I’m currently learning **Full Stack 'Web Development'**
+- 🌱 I’m currently learning **Software Developer'**
 
 - 📫 How to reach me **saglamsemih50@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/semih-sa%c4%9flam-ab2a23218/" target="blank"><img
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/saglamsemih/" target="blank"><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/semih-sa%c4%9flam-ab2a23218/" height="30" width="40" /></a>
+            alt="https://www.linkedin.com/in/saglamsemih/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,6 +32,11 @@
                 alt="mysql" width="40" height="40" /></td>
         <td>MySQL</td>
     </tr>
+  <tr>
+ <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+                alt="mysql" width="40" height="40" /></td>
+    <td>PostgreSQL</td>
+      </tr>
 </table>
 
 <h2>Programming Languages</h2>
@@ -55,9 +60,14 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /></td>
     <td>Python</td>
+         
 </tr>
-
-
+    <tr>
+<td>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+</td>
+<td>Java</td>
+</tr>
 </table>
 <h2>Frontend Development</h2>
 <table>
@@ -111,7 +121,11 @@
                 alt="laravel" width="40" height="40" /></td>
         <td>Laravel</td>
     </tr>
-
+      <tr>
+        <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring-boot" width="40" height="40" /></td>
+        <td>Spring-Boot</td>
+    </tr>
+ 
 </table>
 <h2>Tools</h2>
 <table>
